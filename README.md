@@ -2,8 +2,6 @@
 
 A modern, feature-rich calculator application built with React, TypeScript, and Tailwind CSS.
 
-![actaRITHM Screenshot](screenshot.png)
-
 ## Features
 
 - **Multiple Calculation Modes**
