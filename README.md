@@ -55,7 +55,7 @@ A modern, feature-rich calculator application built with React, TypeScript, and 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/actarithm.git
+git clone https://github.com/olamkaira/actarithm.git
 cd actarithm
 ```
 
